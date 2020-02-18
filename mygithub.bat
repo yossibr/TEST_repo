@@ -9,6 +9,11 @@ git branch
 
 dir >> mybrosh
 
+git config --global user.name "yossibr"
+
+git config --global user.email "onlybrosh@gmail.com"
+
+
 git add .
 
 git commit  -m %a%
