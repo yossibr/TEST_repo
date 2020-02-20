@@ -208,3 +208,17 @@
 02/18/2020  10:06 AM                25 test.txt
                5 File(s)          8,183 bytes
                2 Dir(s)  147,496,517,632 bytes free
+ Volume in drive C is OS
+ Volume Serial Number is 7E62-195C
+
+ Directory of C:\yossi\TEST_repo
+
+02/18/2020  10:21 AM    <DIR>          .
+02/18/2020  10:21 AM    <DIR>          ..
+02/18/2020  10:06 AM               374 Jenkinsfile
+02/20/2020  08:42 AM             7,995 mybrosh
+02/18/2020  10:06 AM                10 mygit
+02/18/2020  10:29 AM               312 mygithub.bat
+02/18/2020  10:06 AM                25 test.txt
+               5 File(s)          8,716 bytes
+               2 Dir(s)  147,481,243,648 bytes free
